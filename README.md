@@ -49,23 +49,6 @@ I have 4 years of experience building backend services and security automation p
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## 💼 Experience
-
-**Software Engineer · Rakuten Mobile** (05/2022 – present)
-
-- Designed and built an AI Gateway in Go as the central routing layer for internal LLM workloads, with an MCP proxy and guardrails for content filtering and prompt injection defense
-- Designed OAuth2/OIDC authentication and authorization for 10+ internal microservices through a central identity provider
-- Containerized and deployed 10+ microservices on Kubernetes with a CI/CD pipeline
-- Built and maintain a SOAR workflow engine with 120+ automated playbooks, saving SOC analysts 150+ staff-hours per day
-- Built a UEBA system that monitors behavior across 8,000+ internal user accounts
-- Developed TIANA, a threat intelligence platform that aggregates 100+ feeds with asynchronous workers
-- Improved API performance by about 80% with SQL tuning, Redis caching, and Celery background workers
-- Mentor and onboard junior engineers
-
-**Frontend Engineer (part time) · Sustainability Page** (09/2023 – 05/2024)
-
-- Led frontend architecture for a production platform with Next.js, TypeScript, and Tailwind CSS
-
 ## 📌 Featured project
 
 ### [Workflow Automation Platform](https://github.com/yuudev14/workflow)
