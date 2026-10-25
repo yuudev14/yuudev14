@@ -59,11 +59,6 @@ A no-code / low-code platform to create, manage, and run workflows, designed to 
 - Execution engine on distributed Celery workers with RabbitMQ
 - Go/Gin Workflow Service and Python/FastAPI Connector Service, connected with gRPC
 
-## 📊 GitHub stats
-
-![Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuudev14&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuudev14&layout=compact&hide_border=true)
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/takakiiiyuuu)
