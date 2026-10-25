@@ -4,10 +4,8 @@
 
 I have 4 years of experience building backend services and security automation platforms in production, including SOAR, UEBA, and threat intelligence systems. I focus on API design, reliability, performance, and maintainable system architecture. I like to work with Security Operations and other teams to turn complex operational problems into scalable backend services and automation.
 
-- 🔭 Building an **AI Gateway** in Go: central routing for LLM workloads, with an MCP proxy and guardrails against prompt injection
 - 🛠️ Side project: a no-code / low-code **Workflow Automation Platform** that will grow into a SOAR solution
 - 🎓 Certified Kubernetes Application Developer (CKAD)
-- 🌏 Filipino (native), English (fluent)
 
 ## 🧰 Tech stack
 
